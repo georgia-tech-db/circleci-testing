@@ -204,8 +204,6 @@ dep.txt
 # data
 *eva_data*/
 
-# models
-models/
 
 # test files
 test.py
